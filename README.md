@@ -39,7 +39,5 @@ Vehicle Registration → Permit Request → Zone Check → Permit Approval → P
 
 ## Test Cases
 6 test cases covering system, acceptance, and regression testing.
-See `tables/test_cases.xlsx` for full details.
 
-## GitHub Repository Link
-[Paste your GitHub repo URL here]
+
